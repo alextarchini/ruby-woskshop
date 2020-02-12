@@ -1,5 +1,4 @@
-# Awesome Blog for Articles and Recipes 
-## (Made with Ruby on Rails!! :-)
+# Ruby on Rails - Awesome Blog for Articles and Recipes 
 
 * LogIn system
 * CRUD system for new Article and Users
