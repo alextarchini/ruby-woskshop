@@ -1,4 +1,5 @@
 # Ruby on Rails - Awesome Blog for Articles and Recipes 
+## Checkout the website here: https://awesome-blog-ruby.herokuapp.com/users/sign_in
 
 * CRUD system for new Article and Users
 * LogIn system (devise)
