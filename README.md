@@ -2,7 +2,7 @@
 ## (Made with Ruby on Rails!! :-)
 
 * LogIn system
-* Create new articles functionality
+* CRUD system for new Article and Users
 
 ## Steps necessary to get the application up and running:
 
@@ -33,6 +33,4 @@
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
 
