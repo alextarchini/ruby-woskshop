@@ -1,7 +1,8 @@
-# Awesome Blog for Articles and Recipes (MADE WITH RUBY on Rails!! :-)
+# Awesome Blog for Articles and Recipes 
+## (MADE WITH RUBY on Rails!! :-)
 
-## LogIn system
-## Create new articles functionality
+* LogIn system
+* Create new articles functionality
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -25,7 +26,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# ruby-woskshop
-
-# ruby-woskshop
 
