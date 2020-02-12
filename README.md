@@ -1,13 +1,22 @@
 # Awesome Blog for Articles and Recipes 
-## (MADE WITH RUBY on Rails!! :-)
+## (Made with Ruby on Rails!! :-)
 
 * LogIn system
 * Create new articles functionality
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Steps necessary to get the application up and running:
 
-Things you may want to cover:
+* bundle install
+ * gem install bundler:2.1.4
+ * rails db:migrate
+
+ * heroku create aswome-blog-beode
+ * git add .
+ * Git commit -m "git add all"
+ * heroku git push heroku master
+ * heroku run rails db:migrate
+
+## Things you may want to cover:
 
 * Ruby version
 
